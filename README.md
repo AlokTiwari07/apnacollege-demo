@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author - Alok
+Author - Alok Tiwari
